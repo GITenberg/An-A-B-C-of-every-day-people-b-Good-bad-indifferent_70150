@@ -1,0 +1,42 @@
+_repo: An-A-B-C-of-every-day-people-b-Good-bad-indifferent_70150
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hassall, John
+    birthdate: 1868
+    deathdate: 1948
+    gutenberg_agent_id: '47254'
+    url: http://www.gutenberg.org/2009/agents/47254
+    wikipedia: https://en.wikipedia.org/wiki/John_Hassall_(illustrator)
+creator:
+  author:
+    agent_name: Farrow, G. E. (George Edward)
+    alias: Farrow, George Edward
+    birthdate: 1862
+    deathdate: 1919
+    gutenberg_agent_id: '7640'
+    url: http://www.gutenberg.org/2009/agents/7640
+    wikipedia: https://en.wikipedia.org/wiki/G._E._Farrow
+description: ''
+gutenberg_issued: '2023-02-26'
+identifiers:
+  gutenberg: '70150'
+language: en
+pgterms:marc905: 20170508200319farrow
+pgterms:marc906: '1902'
+pgterms:marc907: gb
+production_note: David Edwards, PrimeNumber and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the University of Florida Digital Collections.)
+publication_note: '  $aUnited Kingdom :$bDean & Son, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alphabet books'
+- !lcsh 'Alphabet rhymes'
+- !lcsh 'English language -- Alphabet -- Juvenile literature'
+- !lcc 'PZ'
+- GITenberg
+title: 'An A. B. C. of every-day people : $b Good, bad & indifferent'
+url: http://www.gutenberg.org/ebooks/70150
