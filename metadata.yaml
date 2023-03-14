@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '47254'
     url: http://www.gutenberg.org/2009/agents/47254
     wikipedia: https://en.wikipedia.org/wiki/John_Hassall_(illustrator)
+covers:
+- cover_type: archival
+  image_path: 70150-h/images/cover.jpg
 creator:
   author:
     agent_name: Farrow, G. E. (George Edward)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7640
     wikipedia: https://en.wikipedia.org/wiki/G._E._Farrow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70150#An-A-B-C-of-every-day-people-b-Good-bad-indifferent
 gutenberg_issued: '2023-02-26'
 identifiers:
   gutenberg: '70150'
